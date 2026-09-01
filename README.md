@@ -82,14 +82,35 @@ I learn by building, experimenting, and figuring things out from the inside out.
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Serdar8118&show_icons=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Serdar8118"
-    height="180"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Serdar8118&show_icons=true&hide_border=true&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Serdar8118&show_icons=true&hide_border=true&theme=default"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Serdar8118&show_icons=true&hide_border=true&theme=default"
+      height="180"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar8118&layout=compact&hide_border=true&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar8118&layout=compact&hide_border=true&theme=default"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar8118&layout=compact&hide_border=true&theme=default"
+      height="180"
+    />
+  </picture>
 </p>
 
 ---
