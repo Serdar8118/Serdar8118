@@ -83,11 +83,11 @@ I learn by building, experimenting, and figuring things out from the inside out.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Serdar8118&show_icons=true&theme=transparent"
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Serdar8118&show_icons=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar8118&layout=compact&theme=transparent"
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Serdar8118"
     height="180"
   />
 </p>
