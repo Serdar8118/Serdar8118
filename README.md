@@ -134,10 +134,10 @@ I learn by building, experimenting, and figuring things out from the inside out.
 ## Let's Connect
 
 <p>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:s_e_sengul@outlook.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_DISCORD">
+  <a href="serdar_8118">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
