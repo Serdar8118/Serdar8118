@@ -85,30 +85,32 @@ I learn by building, experimenting, and figuring things out from the inside out.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Serdar8118&show_icons=true&hide_border=true&theme=github_dark"
+      srcset="https://github.spoko.space/stats?theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Serdar8118&show_icons=true&hide_border=true&theme=default"
+      srcset="https://github.spoko.space/stats?theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Serdar8118&show_icons=true&hide_border=true&theme=default"
-      height="180"
+      src="https://github.spoko.space/stats?theme=light"
+      alt="GitHub Stats"
+      width="500"
     />
   </picture>
 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar8118&layout=compact&hide_border=true&theme=github_dark"
+      srcset="https://github.spoko.space/langs?theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar8118&layout=compact&hide_border=true&theme=default"
+      srcset="https://github.spoko.space/langs?theme=light"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serdar8118&layout=compact&hide_border=true&theme=default"
-      height="180"
+      src="https://github.spoko.space/langs?theme=light"
+      alt="Top Languages"
+      width="350"
     />
   </picture>
 </p>
