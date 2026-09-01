@@ -137,8 +137,8 @@ I learn by building, experimenting, and figuring things out from the inside out.
   <a href="mailto:s_e_sengul@outlook.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="serdar_8118">
-    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/826447145351380993">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
